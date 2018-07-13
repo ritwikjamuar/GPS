@@ -1,4 +1,4 @@
-package ritwik.sample.gps;
+package ritwik.sample.gps.utilities;
 
 import android.content.Context;
 import android.widget.Toast;
